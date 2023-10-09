@@ -11,10 +11,10 @@ In this project,I will cover the full process of creating a hypothesis, setting 
 
 1. Form a hypothesis.
 2. Find and explore the data.
-3. (If necessary) Reshape the data to predict your target.
+3. Reshape the data to predict your target.
 4. Clean the data for ML.
 5. Pick an error metric.
-6. Split your data.
+6. Split the data.
 7. Train a model.
 
 
